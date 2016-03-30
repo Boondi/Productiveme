@@ -1,0 +1,17 @@
+{
+  "name": "productiv",
+  "version": "1.0.0",
+  "description": "productiv app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BJ",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-addons-css-transition-group": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-mounter": "^1.1.0"
+  }
+}
